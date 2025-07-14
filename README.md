@@ -5,21 +5,6 @@
 
 ---
 
-## 🧭 CATEGORIES
-
-- [👤 People Identification](#people-identification)
-- [📧 Leaked Email & Credentials](#email-and-credentials)
-- [📱 Usernames & Social Networks](#usernames-and-social-networks)
-- [🌍 IPs, Domains & Infrastructure](#ips-domains-and-infrastructure)
-- [🖼️ Images & Metadata](#images-and-metadata)
-- [📍 Geolocation & Maps](#geolocation-and-maps)
-- [🕵️ Collection & Automation](#collection-and-automation)
-- [💻 Cybercrime & Deep/Dark Web](#cybercrime-and-darkweb)
-- [📚 Databases & Public Records](#public-records)
-- [🔧 General Tools & Frameworks](#general-tools)
-
----
-
 ## 👤 People Identification
 
 | Tool | Link | Description |

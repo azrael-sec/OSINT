@@ -1,6 +1,3 @@
-# OSINT
-Open Source Intelligence (OSINT)
-
 # 🧠 OSINT Arsenal – The 100 Most Powerful Open Source Intelligence Tools
 
 > **Professionally compiled and updated – 2025**
